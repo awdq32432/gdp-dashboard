@@ -1,2 +1,5 @@
 streamlit
 pandas
+numpy
+yfinance
+weasyprint        # if you need PDF export
